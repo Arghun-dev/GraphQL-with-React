@@ -17,6 +17,6 @@
     "graphql": "^15.6.0",
     "json-server": "^0.17.0",
     "lodash": "^4.17.21",
-    "nodemon": "^2.0.13"
+    "nodemon": "^2.0.15"
   }
 }
